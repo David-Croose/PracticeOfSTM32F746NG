@@ -19,11 +19,9 @@ Default/*
 *.o
 *.sct
 *.uvguix.*
-MDK-ARM/DebugConfig/
-MDK-ARM/F746GDISCOVERY.uvguix.*
-MDK-ARM/F746GDISCOVERY/
-MDK-ARM/RTE/
-MDK-ARM/startup_stm32f746xx.lst
+*.scvd
+*/MDK-ARM/DebugConfig/
+*/MDK-ARM/RTE/
 
 # ctags
 tags
