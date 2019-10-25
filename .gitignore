@@ -4,6 +4,9 @@ Default/*
 .cproject
 .project
 
+# vscode
+.vscode/
+
 # keil
 *.0.0.dbgconf
 *.axf
